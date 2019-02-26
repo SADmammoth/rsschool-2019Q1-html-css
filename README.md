@@ -1,1 +1,2 @@
-#git@github.com:SADmammoth/rsschool-2019Q1-html-css.git
+Maxim Logvinenko
+HTML CSS Basics: https://www.codecademy.com/users/SADmammoth/achievements
